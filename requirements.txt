@@ -1,0 +1,6 @@
+jupyter
+tensorflow==2.5.0
+matplotlib
+sklearn
+seaborn
+pandas
